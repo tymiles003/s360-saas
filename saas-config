@@ -1,0 +1,3 @@
+git remote add origin https://github.com/tymiles003/s360-saas.git
+git branch -M main
+git push -u origin main
